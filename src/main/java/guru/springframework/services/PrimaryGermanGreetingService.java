@@ -1,8 +1,4 @@
-package guru.services;
-
-import org.springframework.context.annotation.Primary;
-import org.springframework.context.annotation.Profile;
-import org.springframework.stereotype.Service;
+package guru.springframework.services;
 
 /**
  * Created by jt on 5/24/17.
