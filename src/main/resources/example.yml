@@ -1,0 +1,33 @@
+# This is a comment, lol
+
+name: Tina
+
+names:
+  - Bob
+  - Mary
+  - Gina
+
+pound_sign: "#"
+
+book:
+  author: John
+  publisher: Garfielf
+
+truth: yes
+another_truth: True
+more_truth: true
+
+some_str: "That's his panda: peter"
+
+include_new_lines: |
+  one line
+  another line
+  yet another line
+
+exclude_new_lines: >
+  this is
+  actually just
+  all one
+  line
+
+

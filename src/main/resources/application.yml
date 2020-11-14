@@ -1,0 +1,8 @@
+tinatiel:
+  username: foo yml
+  password: bar
+  dbUrl: asfasdf
+  jms:
+    username: jms user from yml
+    password: jms pass
+    dbUrl: wheeee
