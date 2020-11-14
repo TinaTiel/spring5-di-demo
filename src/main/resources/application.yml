@@ -6,3 +6,12 @@ tinatiel:
     username: jms user from yml
     password: jms pass
     dbUrl: wheeee
+
+---
+# The three dashes indicates a new doc in yaml
+# And using profiles we can override the properties above
+spring:
+  profiles: de
+tinatiel:
+  jms:
+    username: GERMAN USERNAME FROM YAML
